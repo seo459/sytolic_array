@@ -15,4 +15,4 @@
 
 ...
 
-165ns : DONE
+165ns : DONE (7 cycles after the start signal)
