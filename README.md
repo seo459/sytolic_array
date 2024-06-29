@@ -4,6 +4,8 @@
 
 **systolic array + FIFO (no skid buffer, M=3 version simulation)**
 
+![image](https://github.com/seo459/sytolic_array/assets/72679290/ba07bdc1-6459-42b0-b8cc-bb907bde248e)
+
 ![image](https://github.com/seo459/sytolic_array/assets/72679290/a7484165-fad5-48b7-9c6e-a6c4c77edf20)
 
 
