@@ -1,6 +1,6 @@
-# sytolic_array
+# sytolic_array (Based on ready-valid handshake)
 
-- M x M systolic array simulation -
+- M x M systolic array simulation 
 
 **systolic array + FIFO (no skid buffer, M=3 version simulation)**
 
@@ -15,4 +15,4 @@
 
 ...
 
-165ns : DONE (7 cycles after the start signal)
+165ns : DONE (7 cycles after the start signal) (For M=3 and without skid buffer)
